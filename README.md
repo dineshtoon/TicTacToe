@@ -1,3 +1,3 @@
 # TicTacToe
 Now play TicTacToe in your browser.
-![Optional Text](../master/TicTacToe/Screenshot.png)
+![Optional Text](TicTacToe/Screenshot.png)
